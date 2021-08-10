@@ -1,0 +1,86 @@
+body {
+background-image: url(images/background-image.png);
+background-size: cover;
+
+}
+
+.layout-summary {
+
+height: 350px;
+width: 300px;
+background-color: white;
+padding-top: 20px;
+text-align: center;
+margin-left: 350px;
+margin-top: 230px;
+
+}
+
+.layout-summary2 {
+
+background-color: transparent; 
+height: 200px;
+width: 300px;
+position: absolute;
+top: 29px;
+left: 360px;
+
+
+}
+
+.anual-plan {
+text-align: center;
+
+
+}
+
+
+
+
+.mp3-music {
+
+	height: 200px;
+	width: 300px;
+}
+
+
+.mp3-music2 {
+
+height: 50px;
+position:absolute;
+left: 30px;
+top: 370px;
+
+}
+
+
+.paragraph-order {
+color: hsl(224, 23%, 55%);
+}
+
+.paragraph-anual {
+
+
+}
+
+.change {
+
+text-align: right;
+margin-right: 35px;
+text-decoration: underline;
+color: purple;
+font-weight: bold;
+margin-bottom: 10px;
+
+}
+
+button {
+
+border: none;
+color: white;
+background-color: hsl(245, 75%, 52%);
+width: 230px;
+padding: 10px;
+border-radius: 15px;
+font-weight: bold;
+}
